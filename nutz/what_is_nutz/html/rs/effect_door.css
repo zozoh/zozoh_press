@@ -1,0 +1,47 @@
+.door {
+    position: absolute;
+    top: 0;
+    width: 50%;
+    height: 100%;
+}
+
+.door_left {
+    left: 0;
+    box-shadow: 0 0 8px #444;
+    background: #333 url(imgs/nutz_bg_logo.png);
+    color: #EEE;
+    text-shadow: 0 0 16px #EEE;
+}
+
+
+.door_right .section_wrapper:before {
+    display: block;
+    content: "";
+    width: 64px;
+    height: 64px;
+    background: url(imgs/nutz_logo.png) no-repeat;
+    position: absolute;
+    top:38.2%;
+    left:-32px;
+    margin-top:-24px;
+}
+
+.door_right {
+    right: 0;
+    background-color:#FFF;
+    text-align: center;
+}
+
+.door h1 {
+    padding: 0 48px;
+    font-size:32px;
+}
+
+.door_left h1 {
+    text-align: right;
+}
+
+.door_right h1 {
+    text-align: left;
+    text-shadow: 1px 1px 4px #888;
+}
