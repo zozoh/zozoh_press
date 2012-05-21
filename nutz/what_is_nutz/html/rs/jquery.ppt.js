@@ -79,24 +79,20 @@ var util = {
 var effects = {
     door: {
         doIn: function(jSec) {
-            jSec.animate({
-                opacity: 1.0
-            }, ANI_SPEED_OUT);
-            jSec.find(".door_left").animate({
+            jSec.show().find(".door_left").animate({
                 left: 0
             }, ANI_SPEED_IN);
-            jSec.find(".door_right").animate({
-                right: 0
+            jSec.show().find(".door_right").animate({
+                right: 1
             }, ANI_SPEED_IN);
         },
         doOut: function(jSec) {
             var doorWidth = jSec.width() / 2;
-            jSec.animate({
-                opacity: 0
-            }, ANI_SPEED_IN);
             jSec.find(".door_left").animate({
                 left: doorWidth * -1
-            }, ANI_SPEED_OUT);
+            }, ANI_SPEED_OUT, function() {
+                jSec.hide();
+            });
             jSec.find(".door_right").animate({
                 right: doorWidth * -1
             }, ANI_SPEED_OUT);
@@ -161,8 +157,11 @@ $.fn.extend({
         // 重新设置幻灯片的 z-index
         var topZIndex = jSecs.size() * 100;
         jSecs.each(function(index, ele) {
-            $(this).css("z-index", topZIndex--).attr("ppt-index", index);
-        });
+            $(this).css({
+            "z-index": topZIndex--,
+            "display":"none"
+            }).attr("ppt-index", index);
+        }).first().show();
         $(".masker_num", this).text(0);
 
         // 绑定事件

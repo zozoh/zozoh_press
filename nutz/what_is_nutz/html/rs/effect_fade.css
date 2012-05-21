@@ -1,7 +1,11 @@
-.fade_sec .section_golden{
+.fade_sec {
+    background: #FFF;
+}
+
+.fade_sec .section_golden {
     text-align: center;
 }
 
-.fade_sec h1{
-    font-size:48px;
+.fade_sec h1 {
+    font-size: 48px;
 }

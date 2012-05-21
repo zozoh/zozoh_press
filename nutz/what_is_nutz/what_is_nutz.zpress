@@ -19,9 +19,6 @@
     M : <h1>世界上只有两种人: 程序员，其他人</h1>
 #-----------------------------------------------------------------
 @fade
-    M : <img height="655" src="rs/imgs/user_and_programer.jpg">
-#-----------------------------------------------------------------
-@fade
     M : <img height="400" src="rs/imgs/zzh_history_nutz_2009.png">
 #-----------------------------------------------------------------
 @door
@@ -33,26 +30,26 @@
 #-----------------------------------------------------------------
 @door
     L : <h1>这玩意没啥用</h1>
-    R : <img height="400" src="rs/imgs/nutz_is_wheel_or_not.png">
+    R : <img height="744" src="rs/imgs/nutz_is_wheel_or_not.png">
 #-----------------------------------------------------------------
 @door
     L : <h1>唉，又是一个傻小子，我来开导开导他 ...</h1>
-    R : <img height="322" src="rs/imgs/nutz_is_wheel_02.png">
+    R : <img height="744" src="rs/imgs/nutz_is_wheel_02.png">
 #-----------------------------------------------------------------
 @door
     L : <h1>小心驶得万年船<br>做人保守一点总是不会错滴~~</h1>
-    R : <img height="281" src="rs/imgs/nutz_is_wheel_03.png">
+    R : <img height="744" src="rs/imgs/nutz_is_wheel_03.png">
 #-----------------------------------------------------------------
 @door
     L : <h1>批评你是在帮你</h1>
-    R : <img height="143" src="rs/imgs/nutz_is_wheel_04.png">
+    R : <img height="744" src="rs/imgs/nutz_is_wheel_04.png">
 #-----------------------------------------------------------------
 @door
     L : <h1>你丫到底要不要脸?!</h1>
-    R : <img height="491" src="rs/imgs/nutz_is_wheel_05.png">
+    R : <img height="744" src="rs/imgs/nutz_is_wheel_05.png">
 #-----------------------------------------------------------------
 @fade
-    M : <h1> ... 让我把代码再写好一点 ... </h1>
+    M : <h1> ... 让我把代码写的再好一点 ... </h1>
 #-----------------------------------------------------------------
 @fade
     M : <h1>1.1W 行文档</h1>
@@ -62,38 +59,32 @@
 #-----------------------------------------------------------------
 @door
     L : <h1>不断的收集 Issue</h1>
-    R : <img height="621" src="rs/imgs/nutz_issues_googlecode.png">
+    R : <img height="744" src="rs/imgs/nutz_issues_googlecode.png">
 #-----------------------------------------------------------------
 @door
     L : <h1>继续收集 Issue</h1>
-    R : <img height="690" src="rs/imgs/nutz_issues_github.png">
+    R : <img height="744" src="rs/imgs/nutz_issues_github.png">
 #-----------------------------------------------------------------
 @door
     L : <h1>持续发布版本</h1>
-    R : <img height="386" src="rs/imgs/wendal_events.png">
+    R : <img height="744" src="rs/imgs/wendal_events.png">
 #-----------------------------------------------------------------
 @door
     L : <h1>有节制的做加法...</h1>
-    R : <img height="513" src="rs/imgs/wendal_jar_size.png">
+    R : <img height="744" src="rs/imgs/wendal_jar_size.png">
 #-----------------------------------------------------------------
 @door
     L : <h1>有时候也会发发感慨 ... </h1>
-    R : <img height="233" src="rs/imgs/wendal_nutz_is_wheel.png">
+    R : <img height="744" src="rs/imgs/wendal_nutz_is_wheel.png">
 #-----------------------------------------------------------------
 @fade
-    M : <h1>它逐渐成为了一个集体项目 ...</h1><br><br><img height="219" src="rs/imgs/nutz_arguments_00.png">
+    M : <h1>它逐渐成为了一个集体项目 ...</h1><br><br><img height="500" src="rs/imgs/nutz_arguments_00.png">
 #-----------------------------------------------------------------
 @fade
-    M : <h1>我们并没什么口号 ...</h1><br><br><img height="498" src="rs/imgs/nutz_arguments_01.png">
+    M : <h1>我们并没什么口号 ...</h1><br><br><img height="500" src="rs/imgs/nutz_arguments_01.png">
 #-----------------------------------------------------------------
 @fade
-    M : <h1> ... 经过了 2009 年 ... </h1>
-#-----------------------------------------------------------------
-@fade
-    M : <h1> ... 经过了 2010 年 ... </h1>
-#-----------------------------------------------------------------
-@fade
-    M : <h1> ... 经过了 2011 年 ... </h1>
+    M : <h1> ... 经过了 3 年 ... </h1>
 #-----------------------------------------------------------------
 @fade
     M : <img height="280" src="rs/imgs/nutz_tender.png">
@@ -134,44 +125,97 @@
 #-----------------------------------------------------------------
 @door
     L : <h1>大家一起帮助一下新手</h1>
-    R : <img height="118" src="rs/imgs/nutzam_qqun_01.png">
+    R : <img height="744" src="rs/imgs/nutzam_qqun_01.png">
 #-----------------------------------------------------------------
 @door
     L : <h1>...讨论行业状况等严肃问题</h1>
-    R : <img height="433" src="rs/imgs/nutzam_qqun_00.png">
+    R : <img height="744" src="rs/imgs/nutzam_qqun_00.png">
 #-----------------------------------------------------------------
 @door
     L : <h1>...解决变态问题</h1>
-    R : <img height="504" src="rs/imgs/nutzam_qqun_03.png">
+    R : <img height="744" src="rs/imgs/nutzam_qqun_03.png">
 #-----------------------------------------------------------------
 @door
     L : <h1>...很多时候我们几乎做到了"立等可取"</h1>
-    R : <img height="281" src="rs/imgs/nutzam_qqun_04.png">
+    R : <img height="744" src="rs/imgs/nutzam_qqun_04.png">
 #-----------------------------------------------------------------
 @door
     L : <h1>...分享生命中的精彩的瞬间</h1>
-    R : <img height="433" src="rs/imgs/nutzam_qqun_02.png">
+    R : <img height="744" src="rs/imgs/nutzam_qqun_02.png">
 #-----------------------------------------------------------------
 @door
-    L : <h1>...发展着同志情谊</h1>
-    R : <img height="361" src="rs/imgs/nutzam_qqun_05.png">
+    L : <h1>...友谊地久天长</h1>
+    R : <img height="744" src="rs/imgs/nutzam_qqun_05.png">
 #-----------------------------------------------------------------
 @door
     L : <h1>...讨论生意</h1>
-    R : <img height="470" src="rs/imgs/nutzam_qqun_06.png">
+    R : <img height="744" src="rs/imgs/nutzam_qqun_06.png">
 #-----------------------------------------------------------------
 @door
     L : <h1>...收集大家的编程习惯</h1>
-    R : <img height="183" src="rs/imgs/nutzam_qqun_10.png">
+    R : <img height="744" src="rs/imgs/nutzam_qqun_10.png">
 #-----------------------------------------------------------------
 @door
     L : <h1>...清理不活跃的帐号</h1>
-    R : <img height="591" src="rs/imgs/nutzam_qqun_23.png">
+    R : <img height="744" src="rs/imgs/nutzam_qqun_23.png">
+#-----------------------------------------------------------------
+@door
+    L : <h1>...自恋</h1>
+    R : <img height="744" src="rs/imgs/nutzam_qqun_26.png">
+#-----------------------------------------------------------------
+@door
+    L : <h1>...技术八卦</h1>
+    R : <img height="744" src="rs/imgs/nutzam_qqun_27.png">
+#-----------------------------------------------------------------
+@door
+    L : <h1>...碰到其他的开源作者</h1>
+    R : <img height="744" src="rs/imgs/nutzam_qqun_31.png">
 #-----------------------------------------------------------------
 @door
     L : <h1>...很多人碰到很多人</h1>
-    R : <img height="653" src="rs/imgs/nutzam_qqun_33.png">
-
+    R : <img height="744" src="rs/imgs/nutzam_qqun_33.png">
+#-----------------------------------------------------------------
+@door
+    L : <h1>...因为不用 Maven 而被鄙视</h1>
+    R : <img height="744" src="rs/imgs/nutzam_qqun_34.png">
+#-----------------------------------------------------------------
+@door
+    L : <h1>...这个小社区很小，但很性感</h1>
+    R : <img height="744" src="rs/imgs/nutzam_qqun_25.png">
+#-----------------------------------------------------------------
+@door
+    L : <h1>Nutz de</h1>
+    R : <h1>另一位提交者</h1>
+#-----------------------------------------------------------------
+@fade
+    M : <img height="200" src="rs/imgs/avata_wendal.jpg"><br><br><br><h1>@Wendal<h1>
+#-----------------------------------------------------------------
+@door
+    L : <h1>Nutz de</h1>
+    R : <h1>第三位提交者</h1>
+#-----------------------------------------------------------------
+@fade
+    M : <img height="200" src="rs/imgs/avata_juqkai.jpg"><br><br><br><h1>@juqkai<h1>
+#-----------------------------------------------------------------
+@door
+    L : <h1>Nutz 的贡献者们</h1>
+    R : <img height="744" src="rs/imgs/nutz_members.png">
+#-----------------------------------------------------------------
+@fade
+    M : <h1>...没了...</h1>
+#-----------------------------------------------------------------
+@door
+    L : <h1>Nutz 的将来</h1>
+    R : <img height="744" src="rs/imgs/nutz_future.png">
+#-----------------------------------------------------------------
+@fade
+    M : <h1>为了最大限度的提升程序员的生产力...</h1>
+#-----------------------------------------------------------------
+@fade
+    M : <h1>Nutz 可能不再仅仅是一个类库了</h1>
+#-----------------------------------------------------------------
+@fade
+    M : <img height="64" src="rs/imgs/nutz_logo.png"><br><br><h1>谢谢 :)  </h1>
 
 
 

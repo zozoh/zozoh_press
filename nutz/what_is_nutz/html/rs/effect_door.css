@@ -7,14 +7,13 @@
 
 .door_left {
     left: 0;
-    box-shadow: 0 0 8px #444;
     background: #333 url(imgs/nutz_bg_logo.png);
     color: #EEE;
     text-shadow: 0 0 16px #EEE;
 }
 
 
-.door_right .section_wrapper:before {
+.door_left .section_wrapper:after {
     display: block;
     content: "";
     width: 64px;
@@ -22,7 +21,7 @@
     background: url(imgs/nutz_logo.png) no-repeat;
     position: absolute;
     top:38.2%;
-    left:-32px;
+    right:-32px;
     margin-top:-24px;
 }
 
