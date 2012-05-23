@@ -1,5 +1,20 @@
+var _tm_begin = z.now();
+var _tm_sec;
+
 function main() {
+    // 每个 PPT 需要的时间，单位秒
+    _tm_sec = 1800 / $("section").size();
+    // 开始 PPT
     $(".masker").ppt();
+    // 计时
+    var H = window.setInterval(function() {
+        var tmoff = z.now().seconds - _tm_begin.seconds;
+        var pptoff = parseInt(($(".section_hlt").attr("ppt-index") * 1 + 1) * _tm_sec);
+        var html = '<i class="' + (pptoff < tmoff ? "delay" : "") + '">';
+        html += z.tmstr(z.tm(tmoff));
+        html += '</i> / <b>' + z.tmstr(z.tm(pptoff)) + "</b>"
+        $("#timer").html(html);
+    }, 1000);
 }
 
 function _adjust_layout() {
